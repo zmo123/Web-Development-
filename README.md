@@ -1,2 +1,2 @@
 # Web-Development-
-Tracking my progress of learning web development
+Tracking my progress of being a amateur web developer
